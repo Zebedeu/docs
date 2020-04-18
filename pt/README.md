@@ -1,7 +1,7 @@
 Manuais de utilizadores do Chamilo
 ==========================
 
-Este site contém manuais do Chamilo em espanhol para a versão 1.11
+Este site contém manuais do Chamilo em Portugues para a versão 1.11
 
 * [Guia do administrador](admin/instalacion_y_configuracion/servidor.md)
 * [Guia do professor](teacher/introduccion/que_es_chamilo.md)
